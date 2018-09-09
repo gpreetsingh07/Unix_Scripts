@@ -1,0 +1,8 @@
+Below files were deleted from path ./ as they were 15.
+./sample1
+Below files were deleted from path ./ as they were 15.
+./sample3
+Below files were deleted from path ./ as they were 15.
+./sample2
+Below files were deleted from path ./ as they were 15.
+./sample5

@@ -1,0 +1,5 @@
+Below files were deleted from path ./ as they were 15.
+./sample1
+./sample3
+./sample2
+./sample5
